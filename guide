@@ -1,0 +1,64 @@
+{
+	"Ads": {
+		"AdMob": {
+			"activated": false,
+			"banner": "ca-app-pub-7522731665883717/5566592221",
+			"native": "ca-app-pub-7522731665883717/2940428884",
+			"interstitial": "ca-app-pub-7522731665883717/9641568606"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1600508-3",
+			"native": "R-M-1600508-2",
+			"interstitial": "R-M-1600508-1"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "com.superbu.tippss",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+
+	"GuideContent": [{
+			"title": "Guide 1",
+			"description": "This App is not a GAME, it's not an official guide from the creators of Super Bunny Man, this app only provides information (Step by step tutorial on how to play the game ...) to help you master the real game, If you notice that there is any copyright contact us and we will resolve any issue."
+		},
+		{
+			"title": "Guide 2",
+			"description": " Super Bunny Man walkthrough is an application for a challenging game based on Super Bunny Man Costume, you will traverse time and space on a challenging journey, jumping through wormholes, find hidden carrots, evading spikes and boulders, and other challenges.This walkthrough has 100% exclusive content, In this guide you have what it takes to Break each level of Super Bunny Man and that will leave you with good feelings "
+		},
+		{
+			"title": "Guide 3",
+			"description": "This is a guide, not a game. It doesn’t use assets from the original game, just fan content. This app requires a super bunny man game to play. This application is not affiliated in any way with super bunny man game Assets and its all property of their respectful owner. "
+		},
+		{
+			"title": "Guide 4  ",
+			"description": " Super Bunny Man is a co-op physics-based platformer where you use rolling, jumping and grabbing to complete challenges. Beat levels, time attacks, find hidden carrots while avoiding spikes, boulders, pitfalls and other challenges.Super Bunny Man is an exciting and daring online game that you should definitely try if you are a fan of platformer games. Great time either alone or with some friends is guaranteed! Play this amazing game on our website and see if you can beat all the obstacles and pass The most difficult levels with all the carrots in your rabbit costume bags! "
+		},
+		{
+			"title": "Guide 5",
+			"description": "The best game ever made about a guy in a rabbit costume jumping through super bunny wormholes, traversing time and space on a challenging journey in search of something non-specific that will leave you with intense feelings.Super Bunny Man is a co - op physics - based platformer where you use rolling."
+		}
+	]
+}
